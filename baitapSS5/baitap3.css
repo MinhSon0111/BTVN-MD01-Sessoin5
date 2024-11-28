@@ -1,0 +1,29 @@
+#background{
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+.circle1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.circle2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+.circle1:hover{
+    background-color: rgb(33, 132, 198);
+    border-radius: 30%;
+}
+.circle2:hover{
+    background-color: rgb(89, 230, 46);
+    border-radius: 50%;
+}
+.space{
+    margin: 20px;
+    display: inline-flex;
+    justify-content: space-between;
+}

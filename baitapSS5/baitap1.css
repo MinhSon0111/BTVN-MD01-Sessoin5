@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+.form-container{
+
+    width: 200px;
+    padding: 20px 20px 20px 10px;
+    background-color: rgba(243, 227, 88, 0.791);
+    margin: 10px auto;
+}
+
+.form--item{
+    flex: 1;
+}
+#age:focus{
+   background-color: yellow;
+}
+
+.mp{
+    margin-bottom: 10px;
+}
+
